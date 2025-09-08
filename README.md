@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Sarkar</h1>
-<h3 align="center">A passionate Cloud Solutions Architect from India</h3>
+<h3 align="center">Aspiring DevOps Engineer</h3>
 
 - 🌱 I’m currently learning **AWS DevOps**
 
