@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Sarkar</h1>
 <h3 align="center">Aspiring DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **AWS DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **ss741201@gmail.com**
 
